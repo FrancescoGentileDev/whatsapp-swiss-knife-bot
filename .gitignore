@@ -1,0 +1,9 @@
+node_modules
+.vscode
+google-chrome-stable_current_amd64.deb
+.wwebjs_auth
+Untitled-1.txt
+
+*.js
+backup
+/services
